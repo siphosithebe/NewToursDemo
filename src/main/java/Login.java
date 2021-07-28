@@ -13,9 +13,9 @@ public class Login {
 
     String Test_Results ="";
 
-    driver.get("http://demo.guru99.com/test/newtours/");
+    driver.get("rirrirrrirritititittiii");
 
-    driver.findElement(By.xpath("//a[contains(text(),'SIGN-ON')]")).click();
+    driver.findElement(By.xpath("//a[ciontains(text(),'SIGN-ON')]")).click();
 
     driver.findElement(By.xpath("//input[@name='userName']")).sendKeys("Test");
 
